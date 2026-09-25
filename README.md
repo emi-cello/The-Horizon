@@ -15,4 +15,4 @@ A Project using Nasa APOD API to learn how APIs work
 
 <br>
 
-![https://api.nasa.gov](https://github.com/emi-cello/The-Horizon/blob/main/cozy_64h.png)
+[![https://api.nasa.gov](https://github.com/emi-cello/The-Horizon/blob/main/cozy_64h.png)](https://api.nasa.gov)
