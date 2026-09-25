@@ -13,6 +13,6 @@ A Project using Nasa APOD API to learn how APIs work
 - make favicon decal
 - maybe make text bacground sync with the image 
 
-
+<br>
 
 ![https://api.nasa.gov](https://github.com/emi-cello/The-Horizon/blob/main/cozy_64h.png)
