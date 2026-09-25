@@ -12,3 +12,5 @@ A Project using Nasa APOD API to learn how APIs work
 - Get GitHub Pages to host if that dosent work then on emi homepage
 - make favicon decal
 - maybe make text bacground sync with the image 
+
+<img scr="cozy_64h.png">
