@@ -24,6 +24,7 @@ html, body {
     background: #00000069;
     border-radius: 10px;
     text-align: center;
+    transition: 0.2s;
     border: 1px #c1b4c190 solid;
 }
 
@@ -39,6 +40,7 @@ html, body {
     left: 0;
     right: 0;
     border: 1px #c1b4c190 solid;
+    transition: 0.2s;
 }
 
 .title {
@@ -50,4 +52,13 @@ html, body {
     position: fixed;
     top: 0;
     border: 1px #c1b4c190 solid;
+    transition: 0.2s;
+}
+
+
+.apod-name:hover , .apod-description:hover , .title:hover {
+    color: #00000000;
+    background:#00000000;
+    border:#00000000;
+    transition: 0.2s;
 }
